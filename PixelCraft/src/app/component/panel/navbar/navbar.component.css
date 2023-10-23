@@ -23,7 +23,8 @@
  background-color: aliceblue;
 }
 .btn:active {
-    background-color: hsla(58, 95%, 57%, 0.894);
+    background: linear-gradient(to top right,#eb2102, #e3db04,#ffffff,#ffffff,#ffffff,#ffffff,#ffffff, #ffffff);
+    background-color: #ffffff;
 }
 .icono{
     width: 25px;
