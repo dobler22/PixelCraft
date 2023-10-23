@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Dela+Gothic+One&family=Nosifer&family=Sedgwick+Ave+Display&display=swap');
+.navbar-toggler{
+    color: aliceblue;
+    margin:10px 1px ;
+}
+.login{
+    margin: 0px 10px;
+    border-radius: 15px;
+}
+.navbar{
+    background-color: rgba(7, 32, 153, 0.722);
+    
+}
+.navbar-brand{
+    font-family: 'Nosifer', sans-serif;
+    color: aliceblue;
+}
+.nav-link {
+    font-family: 'Black Ops One';
+    color: white;
+}
+.btn {
+ background-color: aliceblue;
+}
+.btn:active {
+    background-color: hsla(58, 95%, 57%, 0.894);
+}
+.icono{
+    width: 25px;
+    margin: 0px 0px;
+}
