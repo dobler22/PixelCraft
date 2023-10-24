@@ -1,0 +1,6 @@
+-----------------
+src/acess
+-----------------
+Categoria 1.png  //----El contenido es acto para todas las edades
+Categoria 2.png  //----Es acto para personas de 10 años o mas
+Categoria 3.png  //----Es acto para personas de 13 años o mas
